@@ -1,0 +1,22 @@
+{
+  "name": "MockNativeSDK",
+  "version": "0.0.1",
+  "summary": "A short description of MockNativeSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wellness-ios-sdk/MockNativeSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wellness-ios-sdk": "Aoyun"
+  },
+  "source": {
+    "git": "https://github.com/wellness-ios-sdk/MockNativeSDK.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "MockNativeSDK/Classes/**/*"
+}

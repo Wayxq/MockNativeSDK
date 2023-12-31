@@ -1,0 +1,6 @@
+framework module MockNativeSDK {
+  umbrella header "MockNativeSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MockNativeSDK (0.0.1)
+
+DEPENDENCIES:
+  - MockNativeSDK (from `../`)
+
+EXTERNAL SOURCES:
+  MockNativeSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MockNativeSDK: 50f6711a00ae420bf715c4d7ce3ec0763dcac0f9
+
+PODFILE CHECKSUM: 98094d484714390f75ef9331467af2d01e492cad
+
+COCOAPODS: 1.12.1
